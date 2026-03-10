@@ -2,7 +2,7 @@
   "name": "Tokyo Travel Guide",
   "short_name": "Tokyo Guide",
   "description": "Discover Tokyo's top attractions with multilingual support and dark mode.",
-  "start_url": "/index.html",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#121212",
